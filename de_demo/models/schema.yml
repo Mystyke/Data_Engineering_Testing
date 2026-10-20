@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: dim_party
+    columns:
+      - name: party_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: client_wealth_summary
+    columns:
+      - name: party_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: stg_current_accounts
+    columns:
+      - name: account_id
+        data_tests:
+          - unique
+          - not_null
+      - name: party_id
+        data_tests:
+          - relationships:
+              to: ref('dim_party')
+              field: party_id
