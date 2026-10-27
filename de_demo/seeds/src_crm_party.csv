@@ -1,0 +1,301 @@
+party_ref,full_name,dob,segment,postcode
+P000001,Uma Dawson,1947-03-31,Premier,N9 4JF
+P000002,Amara Singh,1962-11-03,Premier,N21 9SJ
+P000003,Kira Dawson,1953-04-28,Wealth Management,N4 6QZ
+P000004,Ravi Jones,1977-06-12,Premier,N7 2BJ
+P000005,Tom Foster,1992-12-02,Premier,N8 3TR
+P000006,Ben Hughes,1947-11-18,Wealth Management,N13 5DH
+P000007,Imani Edwards,1967-02-16,Premier,N18 9LY
+P000008,Esme Foster,1982-11-16,Premier,N3 7RZ
+P000009,Quentin Foster,1990-07-19,Private Banking,N21 5WZ
+P000010,Jack Hughes,1950-03-14,Private Banking,N19 2DU
+P000011,Grace Singh,1963-01-18,Premier,N10 7QT
+P000012,Kira Clarke,1991-02-16,Private Banking,N9 8HX
+P000013,Leo Nelson,1981-11-18,Wealth Management,N2 2BR
+P000014,Olivia Singh,1953-10-14,Private Banking,N21 9AD
+P000015,Ben Foster,1979-01-01,Private Banking,N13 5TN
+P000016,Ben Khan,1950-02-17,Private Banking,N19 8WW
+P000017,Sofia Walker,1948-07-26,Premier,N3 7YY
+P000018,Chloe Adams,1986-02-12,Premier,N19 2DX
+P000019,Leo Jones,1959-02-26,Wealth Management,N18 5ZW
+P000020,Esme Iqbal,1970-04-12,Premier,N7 6HL
+P000021,Uma Iqbal,1959-07-01,Premier,N15 9SX
+P000022,Leo Grant,1967-05-22,Premier,N4 6XS
+P000023,Hugo Foster,1960-11-19,Wealth Management,N1 3PS
+P000024,Leo Jones,1965-06-02,Private Banking,N1 4RP
+P000025,Imani Foster,1968-10-25,Private Banking,N4 7QP
+P000026,Kira Walker,1973-03-01,Premier,N4 5WN
+P000027,Femi Walker,1972-01-01,Wealth Management,N18 1NN
+P000028,Zane Foster,1952-08-10,Wealth Management,N17 6DJ
+P000029,Willow Morgan,1989-05-09,Wealth Management,N8 3AE
+P000030,Quentin Singh,1973-06-20,Wealth Management,N20 9SX
+P000031,Hugo Iqbal,1984-06-18,Private Banking,N10 4LP
+P000032,Ben Grant,1982-09-11,Wealth Management,N19 1YR
+P000033,Noah Singh,1993-12-30,Premier,N8 8JL
+P000034,Esme Walker,1992-12-02,Private Banking,N13 1DS
+P000035,Imani Nelson,1967-08-20,Private Banking,N16 1XB
+P000036,Priya Dawson,1995-08-07,Private Banking,N15 5QG
+P000037,Maya Grant,1951-10-27,Premier,N21 4EN
+P000038,Noah Lewis,1986-03-31,Premier,N5 7GW
+P000039,Chloe Iqbal,1985-06-11,Private Banking,N15 7PA
+P000040,Imani Singh,1945-11-29,Premier,N7 2JS
+P000041,Amara Clarke,1971-05-26,Private Banking,N13 4NY
+P000042,Leo Owens,1969-04-22,Wealth Management,N9 4EH
+P000043,Willow Singh,1956-05-10,Wealth Management,N2 1XN
+P000044,Daniel Clarke,1980-12-13,Wealth Management,N3 1FF
+P000045,Olivia Jones,1983-06-22,Wealth Management,N19 1ZE
+P000046,Olivia Walker,1987-02-28,Wealth Management,N2 4NN
+P000047,Uma Taylor,1962-10-01,Wealth Management,N4 9JF
+P000048,Jack Owens,1956-02-27,Wealth Management,N10 7LW
+P000049,Tom Iqbal,1947-04-28,Private Banking,N8 1LY
+P000050,Chloe Patel,1976-03-20,Wealth Management,N11 6EG
+P000051,Olivia Clarke,1973-03-21,Wealth Management,N11 2RW
+P000052,Ben Grant,1968-12-16,Premier,N5 5TU
+P000053,Daniel Owens,1955-07-17,Premier,N5 8NW
+P000054,Noah Khan,1990-07-21,Wealth Management,N1 5NY
+P000055,Olivia Khan,1961-12-04,Premier,N8 7JS
+P000056,Quentin Owens,1946-05-18,Premier,N5 7FD
+P000057,Victor Singh,1979-02-04,Wealth Management,N21 8XB
+P000058,Noah Dawson,1954-01-07,Wealth Management,N6 5AB
+P000059,Tom Hughes,1989-08-25,Premier,N5 4TL
+P000060,Femi Clarke,1984-08-18,Wealth Management,N19 5SL
+P000061,Willow Jones,1946-12-20,Premier,N13 5AY
+P000062,Jack Hughes,1976-08-10,Private Banking,N21 4ZL
+P000063,Uma Bennett,1972-09-19,Wealth Management,N2 6FD
+P000064,Leo Reid,1990-01-07,Wealth Management,N6 5UN
+P000065,Ravi Lewis,1953-02-07,Wealth Management,N1 5XE
+P000066,Kira Walker,1964-11-10,Premier,N3 8NS
+P000067,Olivia Lewis,1993-06-19,Wealth Management,N19 3SE
+P000068,Daniel Lewis,1993-11-06,Premier,N12 1RL
+P000069,Ravi Grant,1964-05-17,Private Banking,N11 3ZA
+P000070,Hugo Taylor,1974-01-18,Private Banking,N6 5BF
+P000071,Ben Reid,1972-01-23,Wealth Management,N21 1BU
+P000072,Chloe Khan,1958-04-23,Private Banking,N5 5ZY
+P000073,Ravi Grant,1983-08-02,Wealth Management,N8 7PT
+P000074,Chloe Clarke,1952-08-29,Private Banking,N14 2QF
+P000075,Victor Nelson,1949-08-13,Wealth Management,N20 5QE
+P000076,Ravi Walker,1994-12-13,Private Banking,N20 5AG
+P000077,Zane Reid,1964-04-20,Wealth Management,N14 8PG
+P000078,Imani Owens,1983-01-16,Wealth Management,N20 8SL
+P000079,Imani Jones,1974-06-09,Private Banking,N1 8SG
+P000080,Maya Nelson,1970-12-22,Private Banking,N13 1PG
+P000081,Maya Jones,1975-06-18,Private Banking,N11 3DW
+P000082,Olivia Taylor,1985-04-10,Premier,N19 6PF
+P000083,Leo Reid,1951-08-29,Wealth Management,N15 8BB
+P000084,Olivia Taylor,1994-09-24,Premier,N2 8YH
+P000085,Quentin Walker,1959-03-30,Wealth Management,N12 5RS
+P000086,Tom Edwards,1974-11-28,Private Banking,N19 3QN
+P000087,Tom Clarke,1972-10-10,Premier,N13 6FW
+P000088,Priya Grant,1965-04-29,Private Banking,N5 2NE
+P000089,Tom Edwards,1978-10-19,Private Banking,N6 3ZG
+P000090,Zane Owens,1965-12-29,Premier,N8 5UH
+P000091,Quentin Reid,1982-07-24,Private Banking,N7 3LB
+P000092,Daniel Jones,1952-07-11,Private Banking,N9 8WF
+P000093,Amara Nelson,1949-10-12,Wealth Management,N17 6JR
+P000094,Kira Edwards,1957-05-06,Private Banking,N10 8FU
+P000095,Olivia Clarke,1954-12-12,Wealth Management,N20 9AW
+P000096,Chloe Reid,1977-05-09,Private Banking,N17 9WW
+P000097,Imani Adams,1977-01-14,Private Banking,N12 4EY
+P000098,Esme Clarke,1986-01-23,Private Banking,N10 4BH
+P000099,Imani Bennett,1962-02-23,Wealth Management,N12 1PL
+P000100,Maya Khan,1961-10-05,Wealth Management,N16 6WL
+P000101,Ravi Jones,1973-10-26,Private Banking,N3 6NN
+P000102,Victor Morgan,1977-08-05,Premier,N22 3AF
+P000103,Leo Owens,1951-11-25,Premier,N5 9QR
+P000104,Imani Iqbal,1985-01-14,Private Banking,N20 5UH
+P000105,Chloe Khan,1976-03-03,Premier,N3 9XN
+P000106,Daniel Grant,1957-06-17,Private Banking,N16 1QX
+P000107,Quentin Nelson,1981-09-25,Premier,N3 3PD
+P000108,Uma Taylor,1961-04-29,Private Banking,N14 9BE
+P000109,Chloe Iqbal,1962-08-12,Premier,N18 5FN
+P000110,Imani Grant,1982-05-17,Premier,N21 1UX
+P000111,Grace Khan,1957-11-21,Wealth Management,N11 6RF
+P000112,Noah Hughes,1959-05-01,Wealth Management,N19 6HG
+P000113,Tom Patel,1970-08-21,Premier,N1 2SF
+P000114,Jack Clarke,1979-08-30,Premier,N15 9LZ
+P000115,Maya Reid,1948-08-12,Private Banking,N2 3PU
+P000116,Ravi Patel,1995-07-03,Wealth Management,N16 1QP
+P000117,Quentin Walker,1979-02-10,Private Banking,N22 4BY
+P000118,Grace Nelson,1990-01-08,Premier,N16 1FW
+P000119,Tom Patel,1962-04-02,Private Banking,N9 9NJ
+P000120,Willow Grant,1988-11-14,Wealth Management,N16 6XL
+P000121,Leo Edwards,1971-01-22,Private Banking,N10 2QT
+P000122,Tom Taylor,1966-06-20,Private Banking,N2 9JJ
+P000123,Priya Grant,1970-10-09,Wealth Management,N10 1DY
+P000124,Maya Patel,1961-09-19,Premier,N10 1AN
+P000125,Willow Foster,1946-04-07,Premier,N11 5YH
+P000126,Chloe Morgan,1953-07-23,Private Banking,N5 8PJ
+P000127,Willow Hughes,1950-07-29,Premier,N4 8NG
+P000128,Jack Lewis,1964-10-24,Private Banking,N5 8FT
+P000129,Grace Hughes,1952-05-06,Premier,N15 9QD
+P000130,Victor Grant,1988-11-08,Private Banking,N17 8BT
+P000131,Ravi Bennett,1951-03-12,Wealth Management,N2 5SG
+P000132,Chloe Singh,1956-12-06,Premier,N12 2GX
+P000133,Jack Owens,1993-11-05,Wealth Management,N18 7JJ
+P000134,Hugo Bennett,1981-02-02,Wealth Management,N8 9HB
+P000135,Zane Foster,1983-04-30,Premier,N16 1QR
+P000136,Olivia Bennett,1995-06-16,Wealth Management,N14 9WF
+P000137,Chloe Singh,1962-02-02,Private Banking,N9 7ZZ
+P000138,Hugo Walker,1963-05-08,Wealth Management,N8 9PN
+P000139,Leo Khan,1982-02-19,Private Banking,N19 4FA
+P000140,Priya Singh,1975-04-15,Wealth Management,N16 8TG
+P000141,Chloe Edwards,1945-10-27,Private Banking,N17 8QB
+P000142,Quentin Iqbal,1993-01-24,Wealth Management,N1 9SG
+P000143,Hugo Hughes,1971-11-30,Premier,N3 1DR
+P000144,Sofia Dawson,1992-05-20,Private Banking,N8 4YU
+P000145,Ben Foster,1973-03-20,Private Banking,N7 3RD
+P000146,Maya Edwards,1952-01-14,Premier,N12 1ES
+P000147,Priya Hughes,1976-12-03,Premier,N13 7GY
+P000148,Chloe Iqbal,1958-11-02,Wealth Management,N21 3RP
+P000149,Ravi Singh,1990-12-22,Wealth Management,N4 1DQ
+P000150,Hugo Taylor,1991-10-02,Private Banking,N22 7GF
+P000151,Tom Walker,1962-07-18,Wealth Management,N4 3NA
+P000152,Uma Walker,1957-03-19,Wealth Management,N11 4UP
+P000153,Sofia Hughes,1974-03-28,Wealth Management,N9 7QE
+P000154,Grace Owens,1971-02-20,Premier,N3 7UF
+P000155,Chloe Owens,1987-12-30,Premier,N13 9WS
+P000156,Kira Nelson,1954-07-04,Private Banking,N4 5JW
+P000157,Esme Lewis,1947-03-16,Wealth Management,N4 5SD
+P000158,Willow Owens,1973-08-12,Private Banking,N10 1EA
+P000159,Quentin Foster,1994-07-07,Private Banking,N11 9ST
+P000160,Amara Walker,1962-09-14,Wealth Management,N19 7RA
+P000161,Quentin Khan,1979-11-13,Premier,N13 2QQ
+P000162,Victor Edwards,1973-02-05,Private Banking,N8 5EG
+P000163,Ben Lewis,1945-11-11,Wealth Management,N5 4RX
+P000164,Hugo Singh,1970-11-25,Private Banking,N15 8XW
+P000165,Ben Owens,1968-07-30,Wealth Management,N3 8EJ
+P000166,Noah Foster,1957-06-29,Private Banking,N7 1YQ
+P000167,Victor Dawson,1957-03-01,Wealth Management,N2 5FF
+P000168,Priya Edwards,1969-02-09,Premier,N14 7TD
+P000169,Zane Owens,1977-02-20,Private Banking,N18 7HS
+P000170,Amara Dawson,1959-03-05,Wealth Management,N15 1SH
+P000171,Jack Foster,1969-08-02,Private Banking,N21 6LD
+P000172,Amara Grant,1987-10-12,Private Banking,N5 4WT
+P000173,Esme Patel,1951-05-10,Private Banking,N13 2EE
+P000174,Esme Edwards,1951-02-20,Premier,N19 1ZG
+P000175,Olivia Grant,1952-10-11,Private Banking,N5 2YR
+P000176,Quentin Walker,1990-09-18,Private Banking,N13 5BJ
+P000177,Sofia Nelson,1977-10-13,Premier,N22 3UD
+P000178,Noah Nelson,1981-02-02,Private Banking,N21 9XZ
+P000179,Jack Nelson,1966-05-30,Private Banking,N8 2SE
+P000180,Zane Iqbal,1959-12-25,Wealth Management,N5 5EA
+P000181,Leo Foster,1967-11-21,Private Banking,N19 2JW
+P000182,Ben Singh,1982-08-16,Private Banking,N11 4SP
+P000183,Maya Clarke,1986-09-23,Wealth Management,N10 6DX
+P000184,Zane Singh,1966-12-29,Private Banking,N1 7AJ
+P000185,Daniel Grant,1992-07-13,Private Banking,N14 8BF
+P000186,Willow Lewis,1986-02-17,Premier,N3 2WF
+P000187,Kira Owens,1969-05-26,Private Banking,N3 4FY
+P000188,Olivia Iqbal,1955-10-05,Private Banking,N6 5ZB
+P000189,Maya Reid,1949-05-24,Premier,N10 5GA
+P000190,Ravi Hughes,1953-07-01,Wealth Management,N4 3EA
+P000191,Amara Clarke,1962-09-28,Premier,N15 3DP
+P000192,Amara Morgan,1983-04-12,Private Banking,N12 4GL
+P000193,Ravi Patel,1950-06-22,Private Banking,N9 7FS
+P000194,Amara Morgan,1977-03-21,Wealth Management,N18 8QY
+P000195,Sofia Hughes,1959-04-28,Private Banking,N8 4LX
+P000196,Sofia Adams,1976-07-20,Premier,N19 3YH
+P000197,Kira Walker,1963-01-28,Private Banking,N11 3PB
+P000198,Leo Clarke,1978-07-08,Premier,N22 7YE
+P000199,Uma Patel,1973-06-19,Private Banking,N18 6JY
+P000200,Ben Foster,1973-07-20,Premier,N8 2UF
+P000201,Zane Adams,1949-04-27,Wealth Management,N15 7GS
+P000202,Ben Jones,1946-10-20,Wealth Management,N9 2DP
+P000203,Willow Adams,1983-09-12,Premier,N6 7GB
+P000204,Zane Singh,1968-10-19,Premier,N10 5JE
+P000205,Uma Walker,1988-02-04,Private Banking,N4 1HG
+P000206,Maya Lewis,1961-09-27,Wealth Management,N2 5TT
+P000207,Noah Singh,1987-08-08,Premier,N8 8ND
+P000208,Grace Edwards,1948-10-30,Wealth Management,N3 7HF
+P000209,Willow Walker,1991-11-19,Wealth Management,N4 7FF
+P000210,Daniel Jones,1993-01-20,Wealth Management,N14 5RU
+P000211,Imani Lewis,1946-10-25,Wealth Management,N10 5LU
+P000212,Grace Owens,1963-12-19,Wealth Management,N16 9QB
+P000213,Imani Lewis,1986-08-25,Premier,N13 2AJ
+P000214,Maya Bennett,1959-08-14,Premier,N7 4JH
+P000215,Noah Morgan,1976-04-14,Wealth Management,N9 4TN
+P000216,Kira Iqbal,1974-03-04,Wealth Management,N9 5HF
+P000217,Zane Adams,1989-08-15,Wealth Management,N9 7RR
+P000218,Jack Foster,1995-01-31,Private Banking,N10 2UF
+P000219,Uma Clarke,1964-12-09,Wealth Management,N8 5SP
+P000220,Noah Bennett,1958-07-12,Private Banking,N7 6SY
+P000221,Uma Foster,1973-02-12,Premier,N2 1TL
+P000222,Noah Patel,1979-05-23,Private Banking,N2 9HQ
+P000223,Quentin Grant,1946-08-11,Premier,N1 4JQ
+P000224,Tom Reid,1975-04-24,Wealth Management,N22 3PU
+P000225,Femi Dawson,1977-11-21,Premier,N21 1RL
+P000226,Amara Bennett,1955-05-23,Wealth Management,N15 7EX
+P000227,Daniel Patel,1962-10-28,Premier,N7 5WH
+P000228,Victor Patel,1958-05-20,Private Banking,N17 2EL
+P000229,Noah Dawson,1953-07-10,Private Banking,N1 3GP
+P000230,Maya Owens,1969-05-22,Wealth Management,N16 7GE
+P000231,Tom Adams,1956-09-21,Wealth Management,N16 2ST
+P000232,Zane Taylor,1995-09-10,Private Banking,N22 6WW
+P000233,Chloe Patel,1973-10-07,Private Banking,N11 5BW
+P000234,Daniel Patel,1946-08-06,Private Banking,N13 7BX
+P000235,Uma Owens,1975-08-01,Wealth Management,N2 4TP
+P000236,Leo Jones,1994-02-19,Premier,N12 2BG
+P000237,Willow Khan,1954-09-02,Wealth Management,N2 2TT
+P000238,Femi Taylor,1960-07-31,Premier,N5 2RZ
+P000239,Jack Singh,1973-03-01,Premier,N18 4HH
+P000240,Femi Reid,1993-09-02,Premier,N21 6EQ
+P000241,Ravi Jones,1982-11-23,Private Banking,N17 2AR
+P000242,Willow Jones,1963-04-21,Premier,N2 6TE
+P000243,Hugo Reid,1970-10-22,Premier,N22 1RR
+P000244,Hugo Lewis,1994-01-15,Premier,N20 4HN
+P000245,Esme Foster,1967-11-18,Private Banking,N11 8FB
+P000246,Quentin Foster,1982-04-26,Premier,N18 7DQ
+P000247,Uma Adams,1955-04-18,Premier,N12 8JZ
+P000248,Maya Iqbal,1993-06-20,Premier,N10 1WQ
+P000249,Amara Clarke,1963-11-29,Premier,N21 4SE
+P000250,Zane Edwards,1947-02-18,Wealth Management,N11 1DD
+P000251,Noah Khan,1946-07-08,Wealth Management,N22 2XA
+P000252,Tom Clarke,1970-04-04,Wealth Management,N13 7AU
+P000253,Jack Edwards,1971-09-28,Premier,N21 6AX
+P000254,Zane Lewis,1963-12-31,Wealth Management,N21 9FG
+P000255,Priya Khan,1977-01-15,Private Banking,N22 4EN
+P000256,Imani Lewis,1957-01-18,Premier,N11 8TT
+P000257,Amara Reid,1947-10-20,Premier,N19 7YH
+P000258,Zane Jones,1957-01-05,Wealth Management,N17 9DR
+P000259,Victor Edwards,1988-05-18,Wealth Management,N2 4UJ
+P000260,Ben Khan,1954-04-06,Premier,N17 5LY
+P000261,Leo Patel,1988-04-02,Premier,N1 9FT
+P000262,Victor Hughes,1982-03-14,Wealth Management,N4 8UU
+P000263,Ben Foster,1968-03-03,Private Banking,N17 7ZY
+P000264,Femi Hughes,1981-11-08,Premier,N5 3ZW
+P000265,Victor Nelson,1958-06-02,Premier,N4 3UZ
+P000266,Noah Reid,1982-09-28,Wealth Management,N2 9SJ
+P000267,Willow Taylor,1953-10-07,Wealth Management,N5 5UJ
+P000268,Maya Grant,1973-05-05,Wealth Management,N12 2FS
+P000269,Femi Lewis,1995-02-28,Premier,N16 5NY
+P000270,Zane Hughes,1985-01-25,Premier,N6 2HW
+P000271,Chloe Iqbal,1964-11-23,Wealth Management,N3 1RR
+P000272,Uma Patel,1984-05-20,Private Banking,N7 9NH
+P000273,Leo Hughes,1945-01-10,Private Banking,N3 5RQ
+P000274,Sofia Lewis,1976-03-05,Wealth Management,N8 4TR
+P000275,Imani Owens,1978-10-31,Premier,N16 4PT
+P000276,Victor Hughes,1973-04-29,Wealth Management,N12 9XA
+P000277,Priya Grant,1966-01-26,Premier,N8 5HJ
+P000278,Priya Walker,1945-08-06,Premier,N2 8QZ
+P000279,Ravi Bennett,1990-01-30,Wealth Management,N13 3TE
+P000280,Imani Foster,1994-03-20,Wealth Management,N8 5UZ
+P000281,Sofia Edwards,1965-07-04,Private Banking,N9 4XS
+P000282,Uma Reid,1992-11-27,Premier,N11 8NL
+P000283,Olivia Khan,1968-04-22,Wealth Management,N12 9XL
+P000284,Zane Owens,1952-01-14,Wealth Management,N20 5TF
+P000285,Uma Morgan,1969-05-03,Wealth Management,N12 9TS
+P000286,Willow Clarke,1963-11-23,Private Banking,N13 2ED
+P000287,Chloe Dawson,1968-07-19,Premier,N5 2RN
+P000288,Kira Patel,1986-11-30,Premier,N9 9TF
+P000289,Noah Reid,1992-11-21,Wealth Management,N12 8XJ
+P000290,Esme Lewis,1970-09-23,Wealth Management,N18 1UU
+P000291,Maya Hughes,1959-08-26,Premier,N21 7RJ
+P000292,Priya Grant,1973-10-07,Private Banking,N5 1XA
+P000293,Hugo Clarke,1958-07-09,Private Banking,N16 4PS
+P000294,Ben Iqbal,1980-03-16,Private Banking,N18 8GH
+P000295,Priya Morgan,1973-01-01,Wealth Management,N6 1XW
+P000296,Kira Adams,1960-01-07,Wealth Management,N19 2RJ
+P000297,Chloe Walker,1975-05-13,Premier,N2 1QF
+P000298,Esme Iqbal,1948-07-17,Wealth Management,N15 9NX
+P000299,Ravi Foster,1951-03-07,Premier,N5 8NL
+P000300,Tom Lewis,1966-06-04,Wealth Management,N3 9RH
